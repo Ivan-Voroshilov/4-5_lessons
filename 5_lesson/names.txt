@@ -1,0 +1,7 @@
+Gerasimov 10000
+Kirov 15000
+Akypov 20000
+Korolev 25000
+Klimenko 30000
+Losev 35000
+Lipov 40000
